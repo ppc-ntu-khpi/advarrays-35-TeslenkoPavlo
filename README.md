@@ -24,4 +24,4 @@ int sum = MatrixSumCalculator.calculateSum(matrix); // Результат: 21
 4. Порожня матриця
 
 ## 📸 Скріншоти виконання
-![]()
+![](https://github.com/ppc-ntu-khpi/advarrays-35-TeslenkoPavlo/blob/master/img/img1.png)
